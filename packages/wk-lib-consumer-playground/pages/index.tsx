@@ -14,7 +14,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          wl-lib-consumer-playground
+          wk-lib-consumer-playground
         </h1>
         <b.Button label="Default" />
         <b.StyledButton label="Styled" primary />
